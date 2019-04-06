@@ -1,6 +1,6 @@
 # ABC College Accounting System
 
-This is one of the school projects I did back in University, it's an Accounting System where you can manage the finances of Students and Teachers. The user can Add, Edit, View, Delete Student and Teacher records. Manage the student's number of units and fees. Manage and calculates the teacher's salary.
+This is one of the school projects I did back in University, it's an Accounting System where you can manage the finances of Students and Teachers. The user can Add, Edit, View, Delete Student and Teacher records. Manage the units and fees of the students and the salary calculation of the teachers
 
 *More info about the problem in the [Problem Set](https://github.com/johndgpaz/ABCCollegeAccountingSystem/blob/master/Problem%20Set.docx)*
 
