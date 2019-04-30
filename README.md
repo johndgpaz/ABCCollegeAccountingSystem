@@ -19,5 +19,5 @@ password: admin123
 # What I Learned
 
 * Use file management to create local database
-* Store, edit and delete from local database
+* Create, Read, Update and Delete from local database
 * Mask password while entering password
